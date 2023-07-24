@@ -1,4 +1,4 @@
-- dashboard: s/ap_coe_cortex_finance_vp_09_vendor_performance
+- dashboard: sap_coe_cortex_finance_vp_09_vendor_performance
   title: "Vendor Performance"
   layout: newspaper
   preferred_viewer: dashboards-next
